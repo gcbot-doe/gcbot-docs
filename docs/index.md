@@ -67,7 +67,7 @@ docker compose up -d --build
 * **Резервное копирование**: регулярный экспорт встроенного хранилища (`data/`) в виде архивов.
 * **Техническая поддержка**:
 
-  * Заявки и баг-репорты — раздел [GitHub Issues](https://github.com/gcbot-doe/gcbot/issues)
+  * Заявки и баг-репорты — раздел [GitHub Issues](https://github.com/gcbot-doe/gcbot-docs/issues)
   * Email: [mis@mp-2.ru](mailto:mis@mp-2.ru)
 
 ---
@@ -76,7 +76,7 @@ docker compose up -d --build
 
 * **Лицензия**: Проприетарная «All Rights Reserved». Смотрите файл [LICENSE](../LICENSE) для полного текста.
 
-* **Тарифы и условия использования**: см. [Страница с информацией о стоимости](https://mosproekt2.github.io/general-contractor-building/pricing.html).
+* **Тарифы и условия использования**: см. [Страница с информацией о стоимости](https://gcbot-doe.github.io/gcbot/pricing.html).
 
 ---
 
