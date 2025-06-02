@@ -76,7 +76,7 @@ docker compose up -d --build
 
 * **Лицензия**: Проприетарная «All Rights Reserved». Смотрите файл [LICENSE](../LICENSE) для полного текста.
 
-* **Тарифы и условия использования**: см. [Страница с информацией о стоимости](https://gcbot-doe.github.io/gcbot/pricing.html).
+* **Тарифы и условия использования**: см. [Страница с информацией о стоимости](https://gcbot-doe.github.io/gcbot-docs/pricing.html).
 
 ---
 

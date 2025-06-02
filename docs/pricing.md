@@ -18,7 +18,7 @@
 ## Лицензионное соглашение
 
 - ПО распространяется по проприетарной схеме **All Rights Reserved**.  
-- Полный текст лицензионного соглашения см. в файле [LICENSE](../LICENSE) или на странице [Лицензия](https://gcbot-doe.github.io/gcbot/license.html).
+- Полный текст лицензионного соглашения см. в файле [LICENSE](../LICENSE) или на странице [Лицензия](https://gcbot-doe.github.io/gcbot-docs/license.html).
 
 ## Контакты по вопросам оплаты
 
